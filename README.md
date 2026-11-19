@@ -126,3 +126,15 @@ A high confidence score for an individual prediction does not necessarily indica
 **Aman Kushwaha**
 
 Python Developer | AI/ML | Data Analytics
+
+
+
+## Live Demo
+
+Try the Potato Leaf Disease Detection application online:
+
+[Launch Live Application](https://potato-leaf-disease-detection-zjl8fv7znk2on2yrefaqgw.streamlit.app/)
+
+## API Documentation
+
+[FastAPI Swagger UI](https://potato-leaf-disease-detection-3x8q.onrender.com/docs)
