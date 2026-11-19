@@ -11,7 +11,7 @@ st.title("🥔 Potato Leaf Disease Detection")
 st.write("Upload a potato leaf image to detect its disease.")
 
 # Backend API URL
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://potato-leaf-disease-detection-3x8q.onrender.com/predict"
 
 # Image upload
 uploaded_file = st.file_uploader(
